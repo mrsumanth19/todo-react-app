@@ -60,7 +60,7 @@ This project is open-source and available under the MIT License.
 
 🔗 Connect with Me
 Made with ❤️ by Sumanth Vanapalli
-
+```
 🌐 Portfolio: sumanthvanapalli.netlify.app
 
 💼 LinkedIn: linkedin.com/in/sumanth-vanapalli
