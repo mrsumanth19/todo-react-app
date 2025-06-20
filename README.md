@@ -80,17 +80,4 @@ Made with ❤️ by [Sumanth Vanapalli](https://github.com/mrsumanth19)
 
 ````
 
----
-
-## ✅ Next Steps:
-
-1. Save this as your `README.md`
-2. Add a `preview.gif` in the root of your project (optional but powerful)
-3. Push to GitHub:
-   ```bash
-   git add README.md preview.gif
-   git commit -m "Updated README with live preview and social links"
-   git push
-````
-
 
