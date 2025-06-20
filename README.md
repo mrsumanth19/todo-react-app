@@ -23,9 +23,6 @@ A fully functional, modern, and responsive To-Do List app built with **React + V
 
 ## 🧩 Live Preview
 
-> 🖼 Add a file named `preview.gif` in your project root  
-> Here's how it will appear:
-
 ![App Interaction Preview](./preview.gif)
 
 ---
@@ -34,8 +31,8 @@ A fully functional, modern, and responsive To-Do List app built with **React + V
 
 - ⚛️ React + Vite
 - 🎨 CSS3 + Bootstrap
-- 🗂️ LocalStorage
-- 🚀 Deployed via [Vercel](https://vercel.com)
+- 📁 LocalStorage
+- 🚀 Deployed on [Vercel](https://vercel.com)
 
 ---
 
@@ -52,30 +49,20 @@ npm install
 # Start development server
 npm run dev
 
-# Visit http://localhost:5173
-````
+# Open in browser
+http://localhost:5173
+🧪 Deployment
+Deployed using Vercel
+Live URL → todo-react-app-sumanth.vercel.app
 
----
+📄 License
+This project is open-source and available under the MIT License.
 
-## 🧪 Deployment
+🔗 Connect with Me
+Made with ❤️ by Sumanth Vanapalli
 
-Deployed on **Vercel** at:
-🌍 [https://todo-react-app-sumanth.vercel.app](https://todo-react-app-sumanth.vercel.app)
+🌐 Portfolio: sumanthvanapalli.netlify.app
 
----
+💼 LinkedIn: linkedin.com/in/sumanth-vanapalli
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🔗 Connect with Me
-
-Made with ❤️ by [Sumanth Vanapalli](https://github.com/mrsumanth19)
-
-* 🌐 Portfolio: [sumanthvanapalli.netlify.app](https://sumanthvanapalli.netlify.app)
-* 💼 LinkedIn: [linkedin.com/in/sumanth-vanapalli](https://www.linkedin.com/in/sumanth-vanapalli)
-* 📧 Email: [sumanthvanapalli194@gmail.com](mailto:sumanthvanapalli194@gmail.com)
-
-
+📧 Email: sumanthvanapalli194@gmail.com
