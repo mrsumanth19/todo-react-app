@@ -78,5 +78,4 @@ Made with ❤️ by [Sumanth Vanapalli](https://github.com/mrsumanth19)
 * 💼 LinkedIn: [linkedin.com/in/sumanth-vanapalli](https://www.linkedin.com/in/sumanth-vanapalli)
 * 📧 Email: [sumanthvanapalli194@gmail.com](mailto:sumanthvanapalli194@gmail.com)
 
-````
 
