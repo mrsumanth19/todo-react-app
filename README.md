@@ -55,7 +55,6 @@ http://localhost:5173
 
 ---
 
-<<<<<<< HEAD
 🔗 Connect with Me
 Made with ❤️ by Sumanth Vanapalli
 ```
@@ -66,7 +65,7 @@ Made with ❤️ by Sumanth Vanapalli
 Deployed using **[Vercel](https://vercel.com)**
 🌐 Live URL → [todo-react-app-sumanth.vercel.app](https://todo-react-app-sumanth.vercel.app)
 
----
+
 
 ## 📄 License
 
