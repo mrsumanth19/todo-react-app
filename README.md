@@ -55,22 +55,18 @@ http://localhost:5173
 
 ---
 
-🔗 Connect with Me
-Made with ❤️ by Sumanth Vanapalli
-```
-🌐 Portfolio: sumanthvanapalli.netlify.app
-=======
 ## 🧪 Deployment
 
 Deployed using **[Vercel](https://vercel.com)**
 🌐 Live URL → [todo-react-app-sumanth.vercel.app](https://todo-react-app-sumanth.vercel.app)
 
-
+---
 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
+---
 
 ## 🔗 Connect with Me
 
