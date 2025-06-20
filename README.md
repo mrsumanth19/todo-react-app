@@ -72,7 +72,6 @@ Deployed using **[Vercel](https://vercel.com)**
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
 ## 🔗 Connect with Me
 
