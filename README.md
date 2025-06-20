@@ -1,7 +1,9 @@
 # 📝 React To-Do List App
 
-A fully functional, modern, and responsive To-Do List app built with **React + Vite**.  
-Includes task creation, editing, due dates, progress tracking, dark mode, animations, and localStorage support.
+A fully functional, modern, and responsive To-Do List app built with **React + Vite**.
+
+🔗 **Live Demo**: [todo-react-app-sumanth.vercel.app](https://todo-react-app-sumanth.vercel.app)  
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=todo-react-app)
 
 ---
 
@@ -9,89 +11,86 @@ Includes task creation, editing, due dates, progress tracking, dark mode, animat
 
 - ✅ Add, edit, delete tasks
 - 📅 Set due dates for each task
-- ✅ Mark tasks as complete or undo
-- 🧠 Edit task name and due date inline
+- 🔁 Mark tasks as complete or undo
+- 🧠 Inline editing for task name and due date
 - 📊 Progress bar showing % of tasks completed
-- 💾 LocalStorage persistence (auto-saves your tasks)
+- 💾 LocalStorage persistence
 - 🌙 Dark mode toggle
-- 🎬 Slide-in animations for tasks
-- 📱 Fully responsive for mobile/tablet/desktop
+- 🎬 Slide-in animations
+- 📱 Fully responsive (mobile-friendly)
 
 ---
 
-## 🖼️ Preview
+## 🧩 Live Preview
 
-![Todo App Preview](./screenshot.png)
+> 🖼 Add a file named `preview.gif` in your project root  
+> Here's how it will appear:
+
+![App Interaction Preview](./preview.gif)
 
 ---
 
 ## 📦 Tech Stack
 
 - ⚛️ React + Vite
-- 🎨 CSS3 (Flexbox, Animations)
-- 🌐 HTML5
-- 💡 Bootstrap (UI components)
-- 🗂️ Git + GitHub (version control)
-- 🚀 [Vercel](https://vercel.com) / Netlify (for deployment)
+- 🎨 CSS3 + Bootstrap
+- 🗂️ LocalStorage
+- 🚀 Deployed via [Vercel](https://vercel.com)
 
 ---
 
 ## 🔧 Local Setup
 
-1. **Clone this repo**
 ```bash
+# Clone the repo
 git clone https://github.com/mrsumanth19/todo-react-app.git
 cd todo-react-app
-````
 
-2. **Install dependencies**
-
-```bash
+# Install dependencies
 npm install
-```
 
-3. **Start development server**
-
-```bash
+# Start development server
 npm run dev
-```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser 🚀
+# Visit http://localhost:5173
+````
 
 ---
 
 ## 🧪 Deployment
 
-This project can be easily deployed using:
-
-* **[Vercel](https://vercel.com)**
-* **[Netlify](https://netlify.com)**
-* Or any static host that supports React + Vite
+Deployed on **Vercel** at:
+🌍 [https://todo-react-app-sumanth.vercel.app](https://todo-react-app-sumanth.vercel.app)
 
 ---
 
 ## 📄 License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## ✨ Author
+## 🔗 Connect with Me
 
-Built by **[@mrsumanth19](https://github.com/mrsumanth19)** 💻
-Feel free to ⭐ star this repo or contribute!
+Made with ❤️ by [Sumanth Vanapalli](https://github.com/mrsumanth19)
+
+* 🌐 Portfolio: [sumanthvanapalli.netlify.app](https://sumanthvanapalli.netlify.app)
+* 💼 LinkedIn: [linkedin.com/in/sumanth-vanapalli](https://www.linkedin.com/in/sumanth-vanapalli)
+* 📧 Email: [sumanthvanapalli194@gmail.com](mailto:sumanthvanapalli194@gmail.com)
 
 ````
 
 ---
 
-### ✅ What To Do Next:
-1. Save this as `README.md` in your project root.
-2. Optional: Add a screenshot of your app and name it `screenshot.png`.
-3. Push it to GitHub:
+## ✅ Next Steps:
+
+1. Save this as your `README.md`
+2. Add a `preview.gif` in the root of your project (optional but powerful)
+3. Push to GitHub:
    ```bash
-   git add README.md
-   git commit -m "Added README"
+   git add README.md preview.gif
+   git commit -m "Updated README with live preview and social links"
    git push
 ````
+
 
