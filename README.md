@@ -1,6 +1,3 @@
-## ✅ `README.md` for `todo-react-app`
-
-````md
 # 📝 React To-Do List App
 
 A fully functional, modern, and responsive To-Do List app built with **React + Vite**.  
