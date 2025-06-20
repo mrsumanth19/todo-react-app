@@ -51,18 +51,40 @@ npm run dev
 
 # Open in browser
 http://localhost:5173
-🧪 Deployment
-Deployed using Vercel
-Live URL → todo-react-app-sumanth.vercel.app
+````
 
-📄 License
-This project is open-source and available under the MIT License.
+---
 
+<<<<<<< HEAD
 🔗 Connect with Me
 Made with ❤️ by Sumanth Vanapalli
 ```
 🌐 Portfolio: sumanthvanapalli.netlify.app
+=======
+## 🧪 Deployment
 
-💼 LinkedIn: linkedin.com/in/sumanth-vanapalli
+Deployed using **[Vercel](https://vercel.com)**
+🌐 Live URL → [todo-react-app-sumanth.vercel.app](https://todo-react-app-sumanth.vercel.app)
 
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🔗 Connect with Me
+
+Made with ❤️ by [Sumanth Vanapalli](https://github.com/mrsumanth19)
+
+* 🌐 Portfolio: [sumanthvanapalli.netlify.app](https://sumanthvanapalli.netlify.app)
+* 💼 LinkedIn: [linkedin.com/in/sumanth-vanapalli](https://www.linkedin.com/in/sumanth-vanapalli)
+* 📧 Email: [sumanthvanapalli194@gmail.com](mailto:sumanthvanapalli194@gmail.com)
+>>>>>>> 8677fc2 (Final README with clickable links and formatting)
+
+
+<<<<<<< HEAD
 📧 Email: sumanthvanapalli194@gmail.com
+=======
+>>>>>>> 8677fc2 (Final README with clickable links and formatting)
